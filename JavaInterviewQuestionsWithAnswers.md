@@ -10,12 +10,14 @@ This document contains a curated list of Java questions covering core concepts, 
    - b) `charAt(2)`  
    - ✅ c) `s.indexOf('v')`  
    - d) `indexOf(s,'v')`  
-   
+
 ## JDBC & Database Connectivity
 2. **What are all the different ways to get a connection from a database by using JDBC?**
+## Object Class & Method Overriding
+3. **List Object Class methods and explain when to override `equals()` and `hashCode()` methods.**
 
 ## Compilation & Syntax Checks
-3. **Which of the following lines will compile without warning or error?**  
+4. **Which of the following lines will compile without warning or error?**  
    - a) `float f = 1.3;` ❌ (1.3 is double by default)  
    - b) `char c = "a";` ❌ (double quotes denote String)  
    - c) `byte b = 257;` ❌ (257 exceeds byte range)  
@@ -68,9 +70,6 @@ abstract class MineBase {
     }
 ```
 
-## Object Class & Method Overriding
-4. **List Object Class methods and explain when to override `equals()` and `hashCode()` methods.**
-
 ## Object Creation & Management
 9. **How does a program destroy an object that it creates?**
 10. **What are all the different ways to create an Object in Java Applications?**
@@ -94,3 +93,15 @@ abstract class MineBase {
 28. **Can you tell me something about try-with-resources?**
 29. **What are all the different ways to fetch the data from collection interfaces/classes?**
 30. **I want to store IPL League Franchise names in an order; which collection would you prefer to use?**
+31. **Have you heard about Identity Hash Map, could you please tell me about the work of Identity Hash Map?**
+32. **What do you think about fail safe and fail fast iterators?**
+33. **How will you come out of concurrent modification exception scenarios?**
+34. **What is the relationship between equals and hash code method?**
+35. **What are all the different ways to create a Thread?**
+36. **Differences between Vector and ArrayList? Is it possible to use a private constructor, if yes tell me few scenarios where we need private constructors in real-time applications implementation?**
+37. **Can you tell me the ways to extract actual numeric value stored in the below mentioned character. Example: char c=’9’, wanted to extract exact digit value.**
+38. **What are all the types of relationships in Java?**
+39. **What is the difference between mutable and immutable? Can you give few examples for the same?**
+40. **What is a volatile keyword?**
+
+---
