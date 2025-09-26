@@ -103,5 +103,25 @@ abstract class MineBase {
 38. **What are all the types of relationships in Java?**
 39. **What is the difference between mutable and immutable? Can you give few examples for the same?**
 40. **What is a volatile keyword?**
+41. **What is the difference between WeakHashMap and IdentityHashMap?**
+42. **What is the difference between Collection and Collections?**
+43. **When to use Comparator and When to go Comparable?**
+44. **How to Sort Employee Objects based on empName and empJob?**
+45. **What is a daemon thread, how to create user defined demon thread in Java applications?**
+46. **Can you list the methods of Object Class?**
+47. **How to find the class name of an unknown object received as an argument to a method?**
+48. **What are all the different areas can we use ‘this’ keyword?**
+49. **How to convert a list into Synchronized list?**
+50. **Primitive int is faster or Integer is faster, which one do you prefer to use?**
+51. **What is JUNIT and what are all its usages?**
+52. **What are all the annotations do you use in Junit?**
+53. **How will you make sure test cases are executed in a sequence order?**
+54. **What do you mean by tear-up and teardown Methods in Junit?**
+55. **What are all different ways to get Junit jar files into your project environment?**
+56. **What do you mean by testcase?**
+57. **What do you mean by Test Suite?**
+58. **What are all the code coverage reports you aware of, and what do you mean by code coverage?**
+59. **How you will make sure your class/method code coverage reached more than 95% and above?**
+60. **Have you heard about CopyOnWriteArraySet, and what is the use?**
 
 ---
